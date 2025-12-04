@@ -1,0 +1,102 @@
+Palabra Original	Separación Silábica	Regla(s) Aplicada(s)
+================================================================================
+a	a	Palabra simple
+abril	a-bril	Grupo inseparable (br)
+acciones	ac-cio-nes	C-C, Diptongo (io), V-C-V
+acción	ac-ción	C-C, Diptongo (ió)
+acerca	a-cer-ca	V-C-V, C-C
+actitud	ac-ti-tud	C-C, V-C-V
+actividad	ac-ti-vi-dad	C-C, V-C-V
+actividades	ac-ti-vi-da-des	C-C, V-C-V
+acto	ac-to	C-C
+actual	ac-tual	C-C, Diptongo (ua)
+acuerdo	a-cuer-do	V-C-V, C-C, Diptongo (ue)
+adelante	a-de-lan-te	V-C-V, C-C
+además	a-de-más	V-C-V
+administración	ad-mi-nis-tra-ción	C-C, Diptongo (ió), V-C-V, C-C + Grupo (tr)
+afirmó	a-fir-mó	V-C-V, C-C
+agua	a-gua	V-C-V, Diptongo (ua)
+ahora	a-ho-ra	V-C-V
+ahí	a-hí	V-C-V
+aire	ai-re	V-C-V, Diptongo (ai)
+al	al	Palabra simple
+algo	al-go	C-C
+alguien	al-guien	C-C, Diptongo (ui), Diptongo (ie)
+alguna	al-gu-na	C-C, V-C-V
+algunas	al-gu-nas	C-C, V-C-V
+algunos	al-gu-nos	C-C, V-C-V
+algún	al-gún	C-C
+allá	a-llá	Dígrafo (ll)
+allí	a-llí	Dígrafo (ll)
+alrededor	al-re-de-dor	C-C, V-C-V
+alta	al-ta	C-C
+alto	al-to	C-C
+ambiente	am-bien-te	C-C, Diptongo (ie)
+ambos	am-bos	C-C
+amigo	a-mi-go	V-C-V
+amigos	a-mi-gos	V-C-V
+amor	a-mor	V-C-V
+américa	a-mé-ri-ca	V-C-V
+animales	a-ni-ma-les	V-C-V
+ante	an-te	C-C
+anterior	an-te-rior	C-C, Diptongo (io), V-C-V
+antes	an-tes	C-C
+antonio	an-to-nio	C-C, Diptongo (io), V-C-V
+análisis	a-ná-li-sis	V-C-V
+aparece	a-pa-re-ce	V-C-V
+apenas	a-pe-nas	V-C-V
+apoyo	a-po-yo	V-C-V
+aquel	a-quel	V-C-V, Diptongo (ue)
+aquella	a-que-lla	V-C-V, Dígrafo (ll), Diptongo (ue)
+aquellas	a-que-llas	V-C-V, Dígrafo (ll), Diptongo (ue)
+aquellos	a-que-llos	V-C-V, Dígrafo (ll), Diptongo (ue)
+aquí	a-qu-í	V-C-V, Hiato (u-í)
+argentina	ar-gen-ti-na	C-C, V-C-V
+armas	ar-mas	C-C
+arriba	a-rri-ba	V-C-V, Dígrafo (rr)
+arte	ar-te	C-C
+artículo	ar-tí-cu-lo	C-C, V-C-V
+asimismo	a-si-mis-mo	V-C-V, C-C
+asociación	a-so-cia-ción	V-C-V, Diptongo (ió), Diptongo (ia)
+aspecto	as-pec-to	C-C
+aspectos	as-pec-tos	C-C
+asunto	a-sun-to	V-C-V, C-C
+así	a-sí	V-C-V
+atención	a-ten-ción	V-C-V, C-C, Diptongo (ió)
+atrás	a-trás	Grupo inseparable (tr)
+aumento	au-men-to	V-C-V, C-C, Diptongo (au)
+aun	aun	Diptongo (au)
+aunque	aun-que	C-C, Diptongo (au), Diptongo (ue)
+autor	au-tor	V-C-V, Diptongo (au)
+autoridades	au-to-ri-da-des	V-C-V, Diptongo (au)
+ayer	a-yer	V-C-V
+ayuda	a-yu-da	V-C-V
+año	a-ño	V-C-V
+años	a-ños	V-C-V
+aún	a-ún	Hiato (a-ú)
+b	b	Palabra simple
+baja	ba-ja	V-C-V
+bajo	ba-jo	V-C-V
+banco	ban-co	C-C
+barcelona	bar-ce-lo-na	C-C, V-C-V
+base	ba-se	V-C-V
+bastante	bas-tan-te	C-C
+bien	bien	Diptongo (ie)
+blanca	blan-ca	C-C
+blanco	blan-co	C-C
+boca	bo-ca	V-C-V
+buen	buen	Diptongo (ue)
+buena	bue-na	V-C-V, Diptongo (ue)
+bueno	bue-no	V-C-V, Diptongo (ue)
+buenos	bue-nos	V-C-V, Diptongo (ue)
+busca	bus-ca	C-C
+buscar	bus-car	C-C
+c	c	Palabra simple
+cabeza	ca-be-za	V-C-V
+cabo	ca-bo	V-C-V
+cada	ca-da	V-C-V
+calidad	ca-li-dad	V-C-V
+calle	ca-lle	Dígrafo (ll)
+cama	ca-ma	V-C-V
+cambio	cam-bio	C-C, Diptongo (io)
+cambios	cam-bios	C-C, Diptongo (io)
